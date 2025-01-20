@@ -25,7 +25,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    \`\`\`
-   git clone [https://github.com/your-username/techinnovate-responsive-webpage.git](https://github.com/jefin3273/assignment-1.git)
+   git clone https://github.com/jefin3273/assignment-1.git
    \`\`\`
 
 2. Navigate to the project directory

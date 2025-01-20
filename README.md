@@ -1,4 +1,4 @@
-# TechInnovate Responsive Webpage
+# Responsive Webpage
 
 This project is a responsive webpage built with Next.js and Tailwind CSS. It features a fixed navbar, a collapsible left menu, a main content area, a right-side panel, and a footer. The page also implements a dynamic resizing function based on screen width.
 
@@ -25,13 +25,10 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/your-username/techinnovate-responsive-webpage.git
+   git clone [https://github.com/your-username/techinnovate-responsive-webpage.git](https://github.com/jefin3273/assignment-1.git)
    \`\`\`
 
-2. Navigate to the project directory:
-   \`\`\`
-   cd techinnovate-responsive-webpage
-   \`\`\`
+2. Navigate to the project directory
 
 3. Install the dependencies:
    \`\`\`
